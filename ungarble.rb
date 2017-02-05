@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 # -*- coding: utf-8 -*-
-# ungarble.rb
+# ungarble.rb fot github test
 #
 # Function
 #    Correct name of a garbled file in Macintosh.
